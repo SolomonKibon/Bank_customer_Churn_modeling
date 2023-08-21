@@ -43,7 +43,7 @@ The conclusion section summarizes the key findings and provides actionable recom
 
 To explore the analysis, clone this repository to your local machine using:
 
-# Bank Customer Churn Modeling Macine Learnig
+# Bank Customer Churn Modeling Machine Learnig
 
 ## Introduction
 In this project, we perform an in-depth analysis of a dataset related to bank customer churn. Customer churn refers to the phenomenon where customers stop using the services of a company. The primary objective of this project is to build a predictive model that can identify potential churners based on various features available in the dataset. The project involves data preprocessing, exploratory data analysis, model training, and the creation of a predictive web application.
