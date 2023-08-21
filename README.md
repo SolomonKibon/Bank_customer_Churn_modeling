@@ -1,7 +1,5 @@
 # Bank Customer Churn Analysis
 
-![Project Cover Image](project_cover_image.png)
-
 ## Overview
 
 This repository contains an in-depth analysis of customer churn in a bank. Customer churn refers to the phenomenon where customers stop using the services of a company. The objective of this analysis is to explore various factors that contribute to customer churn and provide insights that can guide strategies to reduce attrition.
